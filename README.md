@@ -8,8 +8,8 @@
   <ul>
     <li>My name is Laode Saady</li>
     <li>I am Backend Engineer using Golang</li>
-    <li>Passionate in Educational, especially in Edutech</li>
     <li>Interested in Backend and Frontend</li>
+    <li>I am a student at Alterra Academy as a Golang backend</li>
     <li>And Yes, I'm looking forward to collaborate with you 😄</li>
   </ul>
 </div>
