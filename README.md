@@ -56,7 +56,7 @@
 <h3 align="left">:gear: GitHub Analytics:</h3>
 <div align="center">
   <a href="https://github.com/Saadyyyy">
-    <img src="https://github-readme-stats.vercel.app/api?username=Saadyyyy&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Commit Stats"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saadyyyy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Commit Stats"/>
   </a>
   <a href="https://github.com/Saadyyyy">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saadyyyy&layout=compact&langs_count=8&bg_color=000&title_color=fff&text_color=fff" alt="Language Stats"/>
