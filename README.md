@@ -10,7 +10,7 @@
     <li>I am Backend Engineer using Golang</li>
     <li>Interested in Backend and Frontend</li>
     <li>I am a student at STTI INDONESIA </li>
-    <li>Ex Internship at Direktorat Jenderal Pendidikan Tinggi, Riset, dan Teknologi as a Backend Developer 👨‍💻</li>
+    <li>Ex Internship at Direktorat Jenderal Pendidikan Tinggi, Riset, and Teknologi as a Backend Developer 👨‍💻</li>
     <li>And Yes, I'm looking forward to collaborate with you 😄</li>
   </ul>
 </div>
